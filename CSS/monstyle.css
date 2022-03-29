@@ -1,25 +1,42 @@
-﻿nav{
-	display: flex;
-	justify-content: center;
-	background-color: aqua;
+﻿form{
 	height: 70px;
-	width: 50%;
+	width: auto;
+	margin-top: 200px;
 }
-form{
-	background-color: red;
-	height: 70px;
-	width: 400px;
-	margin-top: 50px;
+#amogus{
+	height: 162px;
+	width: 167px;
+	align-items: flex-start;
+}
+#amongus{
+	height: 162px;
+	width: 167px;
+	align-items: flex-start;
+}
+nav{
+	display: flex;
+	justify-content: space-between;
+}
+#connexion{
+	width: auto;
+	display: flex;
+	margin: auto;
 }
 body{
-	height: 1080px;
-	width: 1920px;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
+	background-size: cover;
+	height: 100vh;
 	background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
 }
-#imagefond{
-	height: 70px;
-	width: 70px;
+input{
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+	margin: 10px;
+}
+.content{
+	display: flex;
+	justify-content: center;
+}
+h1{
+	color: white;
 }

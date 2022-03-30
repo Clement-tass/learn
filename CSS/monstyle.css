@@ -19,12 +19,9 @@ nav{
 }
 #connexion{
 	width: auto;
-	display: flex;
 	margin: auto;
 }
 body{
-	background-size: cover;
-	height: 100vh;
 	background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
 }
 input{
@@ -40,3 +37,11 @@ input{
 h1{
 	color: white;
 }
+
+#backgorund-video {
+	position: fixed; right: 0; bottom: 0;
+	min-width: 100%; min-height: 100%;
+	width: auto; height: auto; z-index: -100;
+	background-size: cover;
+}
+

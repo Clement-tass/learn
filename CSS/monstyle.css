@@ -9,9 +9,14 @@
 #amogus, #amongus{
 	height: 162px;
 	width: 167px;
-	align-items: flex-start;
 }
-
+#ewanpasla{
+	height: 10%;
+	width: 10%;
+}
+#ewanpasla:hover {
+	background-image: url(https://raw.githubusercontent.com/Clement-tass/learn/main/IMG/fade%20csgo.jpg);
+}
 nav{
 	display: flex;
 	justify-content: space-between;

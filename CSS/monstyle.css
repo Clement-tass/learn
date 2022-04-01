@@ -15,7 +15,8 @@
 	width: 10%;
 }
 #ewanpasla:hover {
-	background-image: url(https://raw.githubusercontent.com/Clement-tass/learn/main/IMG/fade%20csgo.jpg);
+	background-image: url(https://raw.githubusercontent.com/Clement-tass/learn/main/IMG/EwanDrip.png);
+	background-size: cover;
 }
 nav{
 	display: flex;
